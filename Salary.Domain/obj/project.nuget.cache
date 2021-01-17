@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "1D3ag2+2VwNGCPQ9FFvYIuS2ywTJ1WxQT9izwcYiUmN83oaf4lk+UBn0AIZkyYZSmuxC2dF5KwILwQ4E0sX7PA==",
+  "success": true,
+  "projectFilePath": "G:\\GAEB devops\\Samples\\CQRS\\28-7-2019 Salary DomainEvent\\CQRSCollection\\Salary.Domain\\Salary.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fady\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\Fady\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\Fady\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\Fady\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Fady\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\Fady\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Fady\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Fady\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
